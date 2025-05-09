@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionDataset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Extensions>
+    <Extension Name="Density Succession" Version="1.0">
+      <Type>succession</Type>
+      <Assembly>Landis.Extension.Succession.Density-v1</Assembly>
+      <Class>Landis.Extension.Succession.Density.PlugIn</Class>
+      <Description>Density Succession</Description>
+    </Extension>
+    <Extension Name="PnET-Succession" Version="3.4 (official release)">
+      <Type>succession</Type>
+      <Assembly>Landis.Extension.Succession.BiomassPnET-v3</Assembly>
+      <Class>Landis.Extension.Succession.BiomassPnET.PlugIn</Class>
+      <Description>PnET Succession with climate library</Description>
+    </Extension>
+  </Extensions>
+</ExtensionDataset>

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Extension_Admin": {
+      "commandName": "Project",
+      "commandLineArgs": "\"add\" \"Biomass Succession 5.2.txt\"",
+      "workingDirectory": "C:\\Users\\jacobfraser\\source\\repos\\Extension-Biomass-Succession\\deploy\\installer"
+    }
+  }
+}
